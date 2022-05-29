@@ -161,13 +161,7 @@ header h2 span {
     font-family: 'Lora', serif;
     font-size: 36px;
     line-height: 44px;
-}
 
-#contact, #email-header{
-    font-size: 22px;
-    font-weight: 400;
-    line-height: 44px;
-    margin: -30px 0 5px 0;
 }
 
 #contact, #socialmedia-header {
